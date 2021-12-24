@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575214460 source:c:\users\user\documents\programming\array calculator\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1575214939 source:d:\user\onedrive\documents\programming\sem 1 1year\array calculator\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

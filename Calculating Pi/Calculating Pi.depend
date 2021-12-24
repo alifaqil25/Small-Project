@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1591263568 source:c:\users\user\documents\programming\sem 1 1year\calculating pi\main.cpp
+	<iostream>
+	<stack>
+	<Calculation.h>
+
+1591263595 c:\users\user\documents\programming\sem 1 1year\calculating pi\calculation.h
+	<string>
+
+1591263568 source:c:\users\user\documents\programming\sem 1 1year\calculating pi\calculation.cpp
+	"Calculation.h"
+	<string>
+	<iostream>
+	<stack>
+
+1591260580 source:c:\users\user\documents\programming\sem 1 1year\calculating pi\conversion.cpp
+	"Conversion.h"
+	<stack>
+	<iostream>
+
+1591261215 c:\users\user\documents\programming\sem 1 1year\calculating pi\conversion.h
+	<string>
+

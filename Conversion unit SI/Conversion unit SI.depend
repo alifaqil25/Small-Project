@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578922950 source:c:\users\user\documents\programming\conversion unit si\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574099969 source:c:\users\user\documents\programming\area of circle\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

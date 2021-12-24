@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573581573 source:c:\users\user\documents\programming\computer assisted quiz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1573581573 source:c:\users\user\documents\programming\sem 1 1year\computer assisted quiz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
